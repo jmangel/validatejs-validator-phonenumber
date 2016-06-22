@@ -1,0 +1,23 @@
+{
+  "name": "validatejs-phonenumber",
+  "version": "0.1.0",
+  "description": "Phone number validator for validate.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmangel/validatejs-validator-phonenumber.git"
+  },
+  "keywords": [
+    "validate.js",
+    "phone"
+  ],
+  "author": "John Mangel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmangel/validatejs-validator-phonenumber/issues"
+  },
+  "homepage": "https://github.com/jmangel/validatejs-validator-phonenumber#readme"
+}
