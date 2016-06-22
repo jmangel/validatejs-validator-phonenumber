@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/jmangel/validatejs-validator-phonenumber/issues"
   },
-  "homepage": "https://github.com/jmangel/validatejs-validator-phonenumber#readme"
+  "homepage": "https://github.com/jmangel/validatejs-validator-phonenumber#readme",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "dependencies": {
+    "validate.js": "^0.10.0"
+  }
 }
